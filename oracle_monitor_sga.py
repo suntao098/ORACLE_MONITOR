@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # readSGA.py
 
-# AUTHOR: Stanislav Gabenov
-# Date: 06-06-2016
+# AUTHOR: Kalidolda Yerkulan
+# Date: 01-05-2018
 # Version: 1.00
 
 from ctypes import *
